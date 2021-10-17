@@ -16,7 +16,7 @@ Asana, one of the work management software tools featured in this certification,
 
 Want to learn more? Check out these resources:
 
-Asana help article: New to Gantt charts? Start here.
+Asana help article: New to Gantt charts? Start here. https://asana.com/resources/gantt-chart-basics
 
 Roadmaps
 Roadmaps are another common tracking method. Like Gantt charts, Roadmaps also track both individual and project progress toward milestones. However, Roadmaps are best suited for tracking big milestones in your project. 
@@ -27,9 +27,9 @@ High-level tracking of large milestones. Roadmaps outline the project as a whole
 
 Illustrating to your team or key stakeholders how a project should evolve over time
 
-Roadmaps can be built using different tools. You can create a Roadmap in a document (like this example). 
+Roadmaps can be built using different tools. You can create a Roadmap in a document (like this example). https://docs.google.com/document/d/1z-UTxMCbx-s11TuArnzz4iykBesG434YFTBerFrqMFI/template/preview
 
-Smartsheet has useful resources for getting started with Roadmaps. Practice working with Roadmaps on your own with a free Smartsheet trial or by downloading this Roadmap template created with Google Sheets.
+Smartsheet has useful resources for getting started with Roadmaps. Practice working with Roadmaps on your own with a free Smartsheet trial or by downloading this Roadmap template created with Google Sheets. https://docs.google.com/spreadsheets/d/1mtRKyj4nS5fja25lFNsCC8ZMnd7Z81yx_z-MtOEj5HM/template/preview?resourcekey=0-pEIsQsu6t8oHR5WWlMHYvw#gid=1672256879
 
 Want to learn more? Check out these resources:
 
@@ -54,7 +54,7 @@ Jira is a work management software tool that has useful resources for getting st
 
 Want to learn more? Check out these resources:
 
-Jira help article: Learn how to use burndown charts in Jira software
+Jira help article: Learn how to use burndown charts in Jira software https://www.atlassian.com/agile/tutorials/burndown-charts
 
-ProjectManager.com article: Burndown Chart: What Is It & How Do I Use It?
+ProjectManager.com article: Burndown Chart: What Is It & How Do I Use It? https://www.projectmanager.com/blog/burndown-chart-what-is-it
 
