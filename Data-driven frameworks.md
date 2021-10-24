@@ -16,35 +16,36 @@ problems and understand their impact. Next, improve. This means implementing a
 reasonable solution to the problem. Lastly, control. This is where you'll
 implement the changes and stay on top of monitoring the updated processes you've
 established. Another framework you can refer to when working through continuous
-improvements is PDCA. PDCA is a four-step process that focuses on identifying a
-problem, fixing that issue, assessing whether the fix was successful, and
-fine-tuning the final fix. The steps are as follows: First, plan. Here, you'll
-identify the issue and root cause and brainstorm solutions to the problem. Let's
-say that one type of plant isn't selling well, which means the warehouse is full
-of a particular species. If you don't do something fast, the plants may die
-soon. What are some viable solutions? You propose moving the items from the
-bottom of the sales page on the website to the top so those plants are front and
-center. You could also send out email marketing campaigns featuring that plant,
-where you offer customers a buy one, get one offer on the plant. Second, do, or
-fix the problem. In this case, your sponsor decided that they didn't feel
-comfortable giving plants away if they could still profit. You've decided to go
-with the first option: moving the plant to a more prominent part of the website.
-Your hypothesis is that the best way to shift older inventory is to put it in a
-place that customers can't miss. The next part of this framework is check.
-Compare your results to the goal to find out if the problem is fixed. Now you
-wait one week and notice if the sales numbers go up for that plant. If they did,
-your hypothesis is correct and you've saved some plant lives and helped Office
-Green avoid financial loss. Nice job! Finally, act, or fine-tune the fix to
-ensure continuous improvement. In our example, you decide to reorganize the
-website. In the future, all overstocked plants will get a prominent place on the
-website. Both PDCA and DMAIC are great problem-solving frameworks to apply in
-your day-to-day life and in the workplace. These frameworks help you to identify
-issues, reduce errors, and optimize your processes. I encourage you to think
-about these techniques next time you encounter a problem or notice room for
-improvement within a workflow. You'll be surprised at how a simple framework can
-help set you up for success. Awesome! Now you know more about advocating for and
-creating continuous improvements. We also defined and went through some examples
-of using frameworks DMAIC and PDCA for process improvements. Now that you know
-the basics of continuous improvement and process improvement, we'll discuss the
-differences between projects and programs and how they intersect. I'll meet you
-in the next video.
+improvements is PDCA aka plan, do, check and act. PDCA is a four-step process
+that focuses on identifying a problem, fixing that issue, assessing whether the
+fix was successful, and fine-tuning the final fix. The steps are as follows:
+First, plan. Here, you'll identify the issue and root cause and brainstorm
+solutions to the problem. Let's say that one type of plant isn't selling well,
+which means the warehouse is full of a particular species. If you don't do
+something fast, the plants may die soon. What are some viable solutions? You
+propose moving the items from the bottom of the sales page on the website to the
+top so those plants are front and center. You could also send out email
+marketing campaigns featuring that plant, where you offer customers a buy one,
+get one offer on the plant. Second, do, or fix the problem. In this case, your
+sponsor decided that they didn't feel comfortable giving plants away if they
+could still profit. You've decided to go with the first option: moving the plant
+to a more prominent part of the website.  Your hypothesis is that the best way
+to shift older inventory is to put it in a place that customers can't miss. The
+next part of this framework is check.  Compare your results to the goal to find
+out if the problem is fixed. Now you wait one week and notice if the sales
+numbers go up for that plant. If they did, your hypothesis is correct and you've
+saved some plant lives and helped Office Green avoid financial loss. Nice job!
+Finally, act, or fine-tune the fix to ensure continuous improvement. In our
+example, you decide to reorganize the website. In the future, all overstocked
+plants will get a prominent place on the website. Both PDCA and DMAIC are great
+problem-solving frameworks to apply in your day-to-day life and in the
+workplace. These frameworks help you to identify issues, reduce errors, and
+optimize your processes. I encourage you to think about these techniques next
+time you encounter a problem or notice room for improvement within a workflow.
+You'll be surprised at how a simple framework can help set you up for success.
+Awesome! Now you know more about advocating for and creating continuous
+improvements. We also defined and went through some examples of using frameworks
+DMAIC and PDCA for process improvements. Now that you know the basics of
+continuous improvement and process improvement, we'll discuss the differences
+between projects and programs and how they intersect. I'll meet you in the next
+video.
