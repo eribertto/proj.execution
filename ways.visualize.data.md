@@ -48,5 +48,10 @@ To avoid clutter, don't show more than four categories.
 
 Organize highly variable data at the top of the chart to make it easy to read
 
-Scatterplots, bar graphs, pie charts, and line graphs are common data visualizations you will use throughout your career as a project manager. To practice creating these charts, check out this step-by-step overview for creating charts using Google Sheets or this resource for Microsoft Excel. 
+Scatterplots, bar graphs, pie charts, and line graphs are common data visualizations you will use throughout your career as a project manager. To practice creating these charts, check out this step-by-step overview for creating charts using Google Sheets
+https://support.google.com/docs/answer/63824?co=GENIE.Platform%3DDesktop&hl=en
+
+
+or this resource for Microsoft Excel 
+https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2
 
