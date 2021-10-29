@@ -10,9 +10,13 @@ storytellers using information and experiences to share ideas with others.
 Stories usually have a beginning, middle, and end. To tell a great story using
 data, we'll go over some best practices to make sure your story is complete,
 accurate, and compelling. In general, there are six main steps to storytelling.
-First, define your audience. Then, collect the data. Next, filter and analyze
-the data. Fourth, choose a visual representation. Then, shape the story. And
-finally, gather your feedback. Now let's review each one. Step 1: define your
+First, define your audience. 
+Second, collect the data. 
+Third, filter and analyze the data. 
+Fourth, choose a visual representation. 
+Fifth, shape the story. 
+And finally sixth, gather your feedback. 
+Now let's review each one. Step 1: define your
 audience. In this first step, it's important to know who you're presenting to.
 Are you presenting to project sponsors or executives? Or to team members? Define
 your audience and find out what matters most to them. Begin by asking yourself
