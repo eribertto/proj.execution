@@ -9,7 +9,7 @@ trying to do everything for myself and not asking for help. Over the course of
 the last couple of years, I've really learned how to delegate and work with
 others as part of a team to make sure that I'm effectively managing a project as
 a project manager regardless of whether I have management or authority over the
-project team, and allowing those SMEs aka subject matter expers to really do
+project team, and allowing those SMEs aka subject matter experts to really do
 what they're really good at.  Delegating for me in my day-to-day role looks like
 this: I try to find subject matter experts or people that really enjoy doing a
 specific something that may not actually be their role. One of the best pieces
