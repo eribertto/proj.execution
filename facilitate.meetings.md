@@ -1,6 +1,11 @@
 Facilitating inclusive and accessible meetings
 
-In the previous video, we discussed how to organize an effective meeting. Recall that effective meetings generally have four elements in common: they are structured, intentional, collaborative, and inclusive. In this reading, you will explore the fourth element: how to make your meetings more inclusive. 
+In the previous video, we discussed how to organize an effective meeting. Recall that effective meetings generally have four elements in common: 
+they are structured, 
+intentional, 
+collaborative, 
+and inclusive. 
+In this reading, you will explore the fourth element: how to make your meetings more inclusive. 
 
 Creating an inclusive environment
 Inclusion of employees from different backgrounds and identities is extremely important for any organization looking to build a strong sense of connection in the workplace. Also, when team members feel included, they tend to want to do their best work. This is great for the organization, too. Creating an inclusive environment can be particularly challenging in meetings because they can be intimidating for participants. As a project manager, it is part of your job to facilitate meetings that are inclusive of all participants and that create a sense of emotional safety and value for everyone’s active input. In order to help facilitate inclusive meetings that feel empowering to everyone, you should put procedures in place that are consistently followed and predictable. 
